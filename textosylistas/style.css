@@ -1,0 +1,14 @@
+span.chachipistachi{
+    font-style: oblique;
+    font-family: Verdana;
+    font-weight: 600;
+}
+span.negrita{
+    font-weight: 900;
+}
+span.nano{
+    font-size: xx-small;
+}
+span.gigante{
+    font-size: xx-large;
+}
